@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Aug 22 19:52:50 CST 2019
+1.base=/Users/iven/Project/Demo/CameraBasic/android-Camera2Basic-master/Application/build/intermediates/dex/debug/mergeExtDexDebug/out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=classes.dex
+0.set=DEX
+0.base=/Users/iven/Project/Demo/CameraBasic/android-Camera2Basic-master/Application/build/intermediates/dex/debug/mergeProjectDexDebug/out
+1.path=classes.dex
